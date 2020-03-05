@@ -1,0 +1,21 @@
+// Game: Quake
+// Format: Standard
+// entity 0
+{
+"classname" "worldspawn"
+"wad" "E:/quake-leveldesign-starterkit-master/wads/START.WAD"
+// brush 0
+{
+( -64 -64 -16 ) ( -64 -63 -16 ) ( -64 -64 -15 ) bricka2_2 0 0 0 1 1
+( -64 -448 -16 ) ( -64 -448 -15 ) ( -63 -448 -16 ) bricka2_2 -0 -0 -0 1 1
+( -64 -64 -16 ) ( -63 -64 -16 ) ( -64 -63 -16 ) bricka2_2 0 0 0 1 1
+( 64 64 16 ) ( 64 65 16 ) ( 65 64 16 ) bricka2_2 0 0 0 1 1
+( 64 64 16 ) ( 65 64 16 ) ( 64 64 17 ) bricka2_2 0 0 0 1 1
+( 448 64 16 ) ( 448 64 17 ) ( 448 65 16 ) bricka2_2 -0 -0 -0 1 1
+}
+}
+// entity 1
+{
+"classname" "info_player_start"
+"origin" "-32 32 40"
+}
