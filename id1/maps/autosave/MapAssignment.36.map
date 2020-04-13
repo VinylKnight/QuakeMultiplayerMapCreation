@@ -131,16 +131,16 @@
 }
 // brush 13
 {
-( -368 752 4 ) ( -272 928 4 ) ( -0 1344 208 ) sfloor4_5 -11.172 -69.3334 0 0.866025 1
-( -0 1344 208 ) ( -272 928 4 ) ( -0 1344 176 ) sfloor4_5 -11.172 -69.3334 0 0.866025 1
-( -256 688 4 ) ( -368 752 4 ) ( -0 1344 208 ) sfloor4_5 56.8514 -59.3337 0 1 1
-( 112 1344 208 ) ( -256 688 4 ) ( -0 1344 208 ) sfloor4_5 56.8514 -59.3337 0 1 1
-( -256 688 4 ) ( -160 864 4 ) ( -272 928 4 ) sfloor4_5 56.8513 -43.3337 0 1 1
-( -272 928 4 ) ( 112 1344 176 ) ( -0 1344 176 ) sfloor4_5 56.8515 -59.3337 0 1 1
-( -0 1344 176 ) ( 112 1344 176 ) ( 112 1344 208 ) sfloor4_5 120.099 -16 0 0.866025 1
-( -160 864 4 ) ( 112 1344 176 ) ( -272 928 4 ) sfloor4_5 56.8515 -59.3337 0 1 1
-( 112 1344 208 ) ( 112 1344 176 ) ( -256 688 4 ) sfloor4_5 -11.9381 -16 0 0.866025 1
-( -256 688 4 ) ( 112 1344 176 ) ( -160 864 4 ) sfloor4_5 -11.9381 -16 0 0.866025 1
+( -368 752 4 ) ( -272 928 4 ) ( -0 1344 208 ) sfloor4_5 -11.172 -69.3334 60 0.866025 1
+( -0 1344 208 ) ( -272 928 4 ) ( -0 1344 176 ) sfloor4_5 -11.172 -69.3334 60 0.866025 1
+( -256 688 4 ) ( -368 752 4 ) ( -0 1344 208 ) sfloor4_5 56.8514 -59.3337 60 1 1
+( 112 1344 208 ) ( -256 688 4 ) ( -0 1344 208 ) sfloor4_5 56.8514 -59.3337 60 1 1
+( -256 688 4 ) ( -160 864 4 ) ( -272 928 4 ) sfloor4_5 56.8513 -43.3337 60 1 1
+( -272 928 4 ) ( 112 1344 176 ) ( -0 1344 176 ) sfloor4_5 56.8515 -59.3337 60 1 1
+( -0 1344 176 ) ( 112 1344 176 ) ( 112 1344 208 ) sfloor4_5 120.099 -16 60 0.866025 1
+( -160 864 4 ) ( 112 1344 176 ) ( -272 928 4 ) sfloor4_5 56.8515 -59.3337 60 1 1
+( 112 1344 208 ) ( 112 1344 176 ) ( -256 688 4 ) sfloor4_5 -11.9381 -16 60 0.866025 1
+( -256 688 4 ) ( 112 1344 176 ) ( -160 864 4 ) sfloor4_5 -11.9381 -16 60 0.866025 1
 }
 // brush 14
 {
@@ -409,7 +409,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1057"
+"_tb_id" "1081"
 // brush 0
 {
 ( -724 -160 208 ) ( -724 -160 384 ) ( -724 -176 384 ) __TB_empty -0 -0 -0 1 1
@@ -542,7 +542,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1058"
+"_tb_id" "1082"
 // brush 0
 {
 ( -724 -160 -0 ) ( -724 -160 176 ) ( -724 -176 176 ) __TB_empty -0 -0 -0 1 1
@@ -684,7 +684,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1059"
+"_tb_id" "1083"
 // brush 0
 {
 ( -720 1328 208 ) ( -720 1328 384 ) ( -720 1312 384 ) __TB_empty -0 -0 -0 1 1
@@ -817,7 +817,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1060"
+"_tb_id" "1084"
 // brush 0
 {
 ( -720 1328 -0 ) ( -720 1328 176 ) ( -720 1312 176 ) __TB_empty -0 -0 -0 1 1
@@ -959,7 +959,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1061"
+"_tb_id" "1085"
 // brush 0
 {
 ( 60 1552 212 ) ( 60 1552 388 ) ( 60 1536 388 ) __TB_empty -0 -0 -0 1 1
@@ -1083,7 +1083,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1062"
+"_tb_id" "1086"
 // brush 0
 {
 ( 40 1552 -0 ) ( 40 1552 176 ) ( 40 1536 176 ) __TB_empty -0 -0 -0 1 1
@@ -1225,7 +1225,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1063"
+"_tb_id" "1087"
 // brush 0
 {
 ( 40 -336 208 ) ( 40 -336 384 ) ( 40 -352 384 ) __TB_empty -0 -0 -0 1 1
@@ -1349,7 +1349,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1064"
+"_tb_id" "1088"
 // brush 0
 {
 ( 40 -336 -0 ) ( 40 -336 176 ) ( 40 -352 176 ) __TB_empty -0 -0 -0 1 1
@@ -1491,7 +1491,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1065"
+"_tb_id" "1089"
 // brush 0
 {
 ( 848 -128 208 ) ( 848 -128 384 ) ( 848 -144 384 ) __TB_empty -0 -0 -0 1 1
@@ -1624,7 +1624,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1066"
+"_tb_id" "1090"
 // brush 0
 {
 ( 848 -128 -0 ) ( 848 -128 176 ) ( 848 -144 176 ) __TB_empty -0 -0 -0 1 1
@@ -1766,7 +1766,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1067"
+"_tb_id" "1091"
 // brush 0
 {
 ( 848 1424 212 ) ( 848 1424 388 ) ( 848 1408 388 ) __TB_empty -0 -0 -0 1 1
@@ -1899,7 +1899,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1068"
+"_tb_id" "1092"
 // brush 0
 {
 ( 848 1424 -0 ) ( 848 1424 176 ) ( 848 1408 176 ) __TB_empty -0 -0 -0 1 1
@@ -2041,7 +2041,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1069"
+"_tb_id" "1093"
 // brush 0
 {
 ( -720 1328 1556 ) ( -720 1328 1732 ) ( -720 1312 1732 ) __TB_empty -0 -0 -0 1 1
@@ -2174,7 +2174,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1070"
+"_tb_id" "1094"
 // brush 0
 {
 ( 60 1556 1556 ) ( 60 1556 1732 ) ( 60 1540 1732 ) __TB_empty -0 -0 -0 1 1
@@ -2298,7 +2298,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1071"
+"_tb_id" "1095"
 // brush 0
 {
 ( 848 1424 1556 ) ( 848 1424 1732 ) ( 848 1408 1732 ) __TB_empty -0 -0 -0 1 1
@@ -2431,7 +2431,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1072"
+"_tb_id" "1096"
 // brush 0
 {
 ( 848 -128 1552 ) ( 848 -128 1728 ) ( 848 -144 1728 ) __TB_empty -0 -0 -0 1 1
@@ -2564,7 +2564,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1073"
+"_tb_id" "1097"
 // brush 0
 {
 ( 40 -336 1556 ) ( 40 -336 1732 ) ( 40 -352 1732 ) __TB_empty -0 -0 -0 1 1
@@ -2688,7 +2688,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1074"
+"_tb_id" "1098"
 // brush 0
 {
 ( -724 -160 1556 ) ( -724 -160 1732 ) ( -724 -176 1732 ) __TB_empty -0 -0 -0 1 1
@@ -2821,7 +2821,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1075"
+"_tb_id" "1099"
 // brush 0
 {
 ( -724 -160 420 ) ( -724 -160 596 ) ( -724 -176 596 ) __TB_empty -0 -0 -0 1 1
@@ -2954,7 +2954,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1076"
+"_tb_id" "1100"
 // brush 0
 {
 ( 40 -336 416 ) ( 40 -336 592 ) ( 40 -352 592 ) __TB_empty -0 -0 -0 1 1
@@ -3078,7 +3078,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1077"
+"_tb_id" "1101"
 // brush 0
 {
 ( 848 -128 416 ) ( 848 -128 592 ) ( 848 -144 592 ) wizmet1_2 -0 -0 -0 1 1
@@ -3211,7 +3211,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1078"
+"_tb_id" "1102"
 // brush 0
 {
 ( 848 1424 420 ) ( 848 1424 596 ) ( 848 1408 596 ) __TB_empty -0 -0 -0 1 1
@@ -3344,7 +3344,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1079"
+"_tb_id" "1103"
 // brush 0
 {
 ( 60 1552 420 ) ( 60 1552 596 ) ( 60 1536 596 ) __TB_empty -0 -0 -0 1 1
@@ -3468,7 +3468,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "1080"
+"_tb_id" "1104"
 // brush 0
 {
 ( -720 1328 420 ) ( -720 1328 596 ) ( -720 1312 596 ) __TB_empty -0 -0 -0 1 1
