@@ -404,7 +404,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "337"
+"_tb_id" "385"
 // brush 0
 {
 ( -724 -160 208 ) ( -724 -160 384 ) ( -724 -176 384 ) wizmet1_2 -0 -0 -0 1 1
@@ -537,7 +537,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "338"
+"_tb_id" "386"
 // brush 0
 {
 ( -724 -160 -0 ) ( -724 -160 176 ) ( -724 -176 176 ) wizmet1_2 -0 -0 -0 1 1
@@ -679,7 +679,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "339"
+"_tb_id" "387"
 // brush 0
 {
 ( -720 1328 208 ) ( -720 1328 384 ) ( -720 1312 384 ) wizmet1_2 -0 -0 -0 1 1
@@ -812,7 +812,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "340"
+"_tb_id" "388"
 // brush 0
 {
 ( -720 1328 -0 ) ( -720 1328 176 ) ( -720 1312 176 ) wizmet1_2 -0 -0 -0 1 1
@@ -954,7 +954,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "341"
+"_tb_id" "389"
 // brush 0
 {
 ( 60 1552 212 ) ( 60 1552 388 ) ( 60 1536 388 ) wizmet1_2 -0 -0 -0 1 1
@@ -1078,7 +1078,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "342"
+"_tb_id" "390"
 // brush 0
 {
 ( 40 1552 -0 ) ( 40 1552 176 ) ( 40 1536 176 ) wizmet1_2 -0 -0 -0 1 1
@@ -1220,7 +1220,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "343"
+"_tb_id" "391"
 // brush 0
 {
 ( 40 -336 208 ) ( 40 -336 384 ) ( 40 -352 384 ) wizmet1_2 -0 -0 -0 1 1
@@ -1344,7 +1344,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "344"
+"_tb_id" "392"
 // brush 0
 {
 ( 40 -336 -0 ) ( 40 -336 176 ) ( 40 -352 176 ) wizmet1_2 -0 -0 -0 1 1
@@ -1486,7 +1486,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "345"
+"_tb_id" "393"
 // brush 0
 {
 ( 848 -128 208 ) ( 848 -128 384 ) ( 848 -144 384 ) wizmet1_2 -0 -0 -0 1 1
@@ -1619,7 +1619,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "346"
+"_tb_id" "394"
 // brush 0
 {
 ( 848 -128 -0 ) ( 848 -128 176 ) ( 848 -144 176 ) wizmet1_2 -0 -0 -0 1 1
@@ -1761,7 +1761,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "347"
+"_tb_id" "395"
 // brush 0
 {
 ( 848 1424 212 ) ( 848 1424 388 ) ( 848 1408 388 ) wizmet1_2 -0 -0 -0 1 1
@@ -1894,7 +1894,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "348"
+"_tb_id" "396"
 // brush 0
 {
 ( 848 1424 -0 ) ( 848 1424 176 ) ( 848 1408 176 ) wizmet1_2 -0 -0 -0 1 1
@@ -2036,7 +2036,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "349"
+"_tb_id" "397"
 // brush 0
 {
 ( -720 1328 1556 ) ( -720 1328 1732 ) ( -720 1312 1732 ) __TB_empty -0 -0 -0 1 1
@@ -2169,7 +2169,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "350"
+"_tb_id" "398"
 // brush 0
 {
 ( 60 1556 1556 ) ( 60 1556 1732 ) ( 60 1540 1732 ) __TB_empty -0 -0 -0 1 1
@@ -2293,7 +2293,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "351"
+"_tb_id" "399"
 // brush 0
 {
 ( 848 1424 1556 ) ( 848 1424 1732 ) ( 848 1408 1732 ) __TB_empty -0 -0 -0 1 1
@@ -2426,7 +2426,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "352"
+"_tb_id" "400"
 // brush 0
 {
 ( 848 -128 1552 ) ( 848 -128 1728 ) ( 848 -144 1728 ) __TB_empty -0 -0 -0 1 1
@@ -2559,7 +2559,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "353"
+"_tb_id" "401"
 // brush 0
 {
 ( 40 -336 1556 ) ( 40 -336 1732 ) ( 40 -352 1732 ) __TB_empty -0 -0 -0 1 1
@@ -2683,7 +2683,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "354"
+"_tb_id" "402"
 // brush 0
 {
 ( -724.82652109515925 -409.72194899218925 1556 ) ( -724.82652109515925 -409.72194899218925 1732 ) ( -720.68541637351905 -425.17676221281437 1732 ) __TB_empty 0.175385 -0 -0 0.965926 1
@@ -2816,14 +2816,14 @@
 "classname" "item_armor1"
 "origin" "224 -288 240"
 "angle" "90"
-"_tb_group" "354"
+"_tb_group" "402"
 }
 // entity 20
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "355"
+"_tb_id" "403"
 // brush 0
 {
 ( -740 -128 420 ) ( -740 -128 596 ) ( -740 -144 596 ) wizmet1_2 -32 -0 -0 1 1
@@ -2956,7 +2956,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "356"
+"_tb_id" "404"
 // brush 0
 {
 ( 40 -336 416 ) ( 40 -336 592 ) ( 40 -352 592 ) wizmet1_2 -0 -0 -0 1 1
@@ -3080,7 +3080,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "357"
+"_tb_id" "405"
 // brush 0
 {
 ( 848 -128 416 ) ( 848 -128 592 ) ( 848 -144 592 ) wizmet1_2 -0 -0 -0 1 1
@@ -3213,7 +3213,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "358"
+"_tb_id" "406"
 // brush 0
 {
 ( 848 1424 420 ) ( 848 1424 596 ) ( 848 1408 596 ) wizmet1_2 -0 -0 -0 1 1
@@ -3346,7 +3346,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "359"
+"_tb_id" "407"
 // brush 0
 {
 ( 60 1552 420 ) ( 60 1552 596 ) ( 60 1536 596 ) wizmet1_2 -0 -0 -0 1 1
@@ -3470,7 +3470,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "OctagonHollow"
-"_tb_id" "360"
+"_tb_id" "408"
 // brush 0
 {
 ( -720 1328 420 ) ( -720 1328 596 ) ( -720 1312 596 ) wizmet1_2 -0 -0 -0 1 1
@@ -3638,6 +3638,7 @@
 {
 "classname" "info_player_deathmatch"
 "origin" "1040 -80 24"
+"angle" "135"
 }
 // entity 34
 {
@@ -3663,12 +3664,12 @@
 // entity 38
 {
 "classname" "item_health"
-"origin" "416 1568 0"
+"origin" "496 1248 -0"
 }
 // entity 39
 {
 "classname" "item_health"
-"origin" "816 1440 -0"
+"origin" "816 1456 -0"
 }
 // entity 40
 {
@@ -3693,17 +3694,20 @@
 // entity 44
 {
 "classname" "info_player_deathmatch"
-"origin" "-560 -176 24"
+"origin" "-512 -80 24"
+"angle" "30"
 }
 // entity 45
 {
 "classname" "info_player_deathmatch"
 "origin" "-496 1344 24"
+"angle" "315"
 }
 // entity 46
 {
 "classname" "info_player_deathmatch"
 "origin" "1024 1472 24"
+"angle" "225"
 }
 // entity 47
 {
@@ -3738,17 +3742,17 @@
 // entity 53
 {
 "classname" "item_shells"
-"origin" "-64 1168 -0"
+"origin" "64 1584 -0"
 }
 // entity 54
 {
 "classname" "item_shells"
-"origin" "480 1152 -0"
+"origin" "368 1584 -0"
 }
 // entity 55
 {
 "classname" "item_rockets"
-"origin" "624 1536 -0"
+"origin" "432 1568 -0"
 }
 // entity 56
 {
@@ -3839,4 +3843,115 @@
 {
 "classname" "item_cells"
 "origin" "-512 32 200"
+}
+// entity 74
+{
+"classname" "item_rockets"
+"origin" "-560 -256 208"
+}
+// entity 75
+{
+"classname" "item_rockets"
+"origin" "-528 -256 208"
+}
+// entity 76
+{
+"classname" "item_spikes"
+"origin" "-672 -144 208"
+}
+// entity 77
+{
+"classname" "item_spikes"
+"origin" "-672 -96 208"
+}
+// entity 78
+{
+"classname" "item_spikes"
+"origin" "1168 -112 208"
+}
+// entity 79
+{
+"classname" "item_rockets"
+"origin" "1024 48 208"
+}
+// entity 80
+{
+"classname" "item_rockets"
+"origin" "1056 48 208"
+}
+// entity 81
+{
+"classname" "item_spikes"
+"origin" "1168 -64 208"
+}
+// entity 82
+{
+"classname" "item_cells"
+"origin" "1008 -240 200"
+}
+// entity 83
+{
+"classname" "item_cells"
+"origin" "1056 -224 208"
+}
+// entity 84
+{
+"classname" "item_rockets"
+"origin" "880 -224 -0"
+}
+// entity 85
+{
+"classname" "item_shells"
+"origin" "912 -272 -0"
+}
+// entity 86
+{
+"classname" "item_shells"
+"origin" "432 -272 -0"
+}
+// entity 87
+{
+"classname" "item_spikes"
+"origin" "432 -320 0"
+}
+// entity 88
+{
+"classname" "item_spikes"
+"origin" "16 -336 -0"
+}
+// entity 89
+{
+"classname" "item_shells"
+"origin" "-400 -288 -0"
+}
+// entity 90
+{
+"classname" "item_cells"
+"origin" "-384 -256 0"
+}
+// entity 91
+{
+"classname" "item_rockets"
+"origin" "16 -288 -0"
+}
+// entity 92
+{
+"classname" "item_health"
+"origin" "-32 64 -0"
+}
+// entity 93
+{
+"classname" "item_health"
+"origin" "496 48 -0"
+}
+// entity 94
+{
+"classname" "item_health"
+"origin" "-32 1248 -0"
+}
+// entity 95
+{
+"classname" "item_armor1"
+"origin" "224 -288 -0"
+"angle" "90"
 }
